@@ -4,12 +4,9 @@
 
 <br />
 <div align="center">
-  <a href="https://github.com/zyx-0314/">
-  <!-- TODO: If you want to add logo or banner you can add it here -->
-    <img src="./assets/img/nyebe_white.png" alt="Nyebe" width="130" height="100">
-  </a>
-<!-- TODO: Change Title to the name of the title of your Project -->
-  <h3 align="center">Title</h3>
+<a href="https://app.daily.dev/saisumi"><img src="https://api.daily.dev/devcards/v2/kMFfDQrYIW0pzKdfv9XAQ.png?type=default&r=yfp" width="356" alt="Saira Salumbides's Dev Card"/></a>
+
+  <h3 align="center">Seatwork 2</h3>
 </div>
 <!-- TODO: Make a short description -->
 <div align="center">
@@ -18,16 +15,13 @@
 
 <br />
 
-<!-- TODO: Change the zyx-0314 into your github username  -->
-<!-- TODO: Change the WD-Template-Project into the same name of your folder -->
-![](https://visit-counter.vercel.app/counter.png?page=zyx-0314/WD-Template-Project)
+![](https://visit-counter.vercel.app/counter.png?page=Saisumii/WD-Seatwork-2-TX03)
 
 ---
 
 <br />
 <br />
 
-<!-- TODO: If you want to add more layers for your readme -->
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -47,6 +41,9 @@
     </li>
     <li>
       <a href="#resources">Resources</a>
+    </li>
+    <li>
+      <a href="#documentation">Documentation</a>
     </li>
   </ol>
 </details>
@@ -112,3 +109,5 @@ WD-ProjectName
 | Title | Purpose | Link |
 |-|-|-|
 | Sample Title | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |
+
+## Documentation
