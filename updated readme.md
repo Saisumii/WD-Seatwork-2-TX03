@@ -8,9 +8,8 @@
 
   <h3 align="center">Seatwork 2</h3>
 </div>
-<!-- TODO: Make a short description -->
 <div align="center">
-  Short Description. (Optional)
+  This seatwork 2 serves as a practice for CSS and HTML that helps me to fully understand its application.
 </div>
 
 <br />
@@ -42,38 +41,28 @@
     <li>
       <a href="#resources">Resources</a>
     </li>
-    <li>
-      <a href="#documentation">Documentation</a>
-    </li>
   </ol>
 </details>
 
 ---
 
 ## Overview
-
-<!-- TODO: To be changed -->
-<!-- The following are just sample -->
 Description of the project in details.
+The project is about a resume that uses a CSS and HTML to create a wireframe. This uses a link, image, logo, and lists.
 
-Guiding Question:
-- What is the project
-- Whats the purpose
-- What are key components
-- What technology used and how it is used
+The purpose of this project is to practice CSS and HTML and to be familiar on how to apply the code properly.
+
+The technology that's been used is laptop and computer to exhibit the HTML and CSS code without technological issues and errors.
+
 
 ### Key Components
-<!-- TODO: List of Key Components -->
-<!-- The following are just sample -->
-- MultiPage Website/Single Page Website
-- Parallax transition
-- Transactional
+- Single Page Website
+- HTML Structure
+- CSS Styling
 
 ### Technology
-<!-- TODO: List of Technology Used -->
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
 
 ## Rules and Principles
 1. Always use ***WD-*** in the front of the Title of the Project for the Subject followed by your custom naming.
@@ -86,9 +75,8 @@ WD-ProjectName
 |   └─ css
 |   |   └─ style.css
 |   └─ img
-|   |   └─ fileWith.jpeg/.jpg/.webp/.png
-|   └─ js
-|       └─ script.js
+|       └─ fileWith.jpeg/.jpg/.webp/.png
+|
 └─ pages
 |  └─ pageName
 |     └─ assets
@@ -104,10 +92,9 @@ WD-ProjectName
 ```
 
 ## Resources
-
-<!-- TODO: Add References -->
 | Title | Purpose | Link |
 |-|-|-|
-| Sample Title | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |
-
-## Documentation
+| Resume by Alpha Romer Coma | This resume gives an idea of the structure and the data the should be included inside of a resume. | https://flowcv.com/resume/p5r0itrtfm |
+| Resume Template | This resume gives an idea of the structure and the data the should be included inside of a resume. | https://resumekraft.com/downloads/professional-resume-template-for-web-designers/ |
+| CSS guide | This link gives an idea on how to used the code properly. | https://www.w3schools.com/css/default.asp |
+| HTML guide | This link gives an idea on how to used the code properly. | https://www.w3schools.com/html/default.asp |
