@@ -18,7 +18,7 @@ body {
   header img.profile-photo {
     display: block; /* Ensures the image is displayed as a block element */
     margin: 0 auto 20px; /* Centers the image */
-    width: 100px; /* Width of the photo */
+    width: 150px; /* Width of the photo */
     height: auto;
     border-radius: 10%; /* Rounded corners*/
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Shadow to the photo */
