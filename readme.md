@@ -47,11 +47,8 @@
 ---
 
 ## Overview
-Description of the project in details.
 The project is about a resume that uses a CSS and HTML to create a wireframe. This uses a link, image, logo, and lists.
-
 The purpose of this project is to practice CSS and HTML and to be familiar on how to apply the code properly.
-
 The technology that's been used is laptop and computer to exhibit the HTML and CSS code without technological issues and errors.
 
 
